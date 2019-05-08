@@ -1,4 +1,4 @@
-#Local Ghost
+# Local Ghost
 
 _Serve local modifications for remote websites_
 
